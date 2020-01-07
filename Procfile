@@ -1,0 +1,1 @@
+web: gunicorn ProTri_1174026.wsgi --log-file
