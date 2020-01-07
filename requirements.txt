@@ -47,7 +47,7 @@ defusedxml==0.6.0
 diff-match-patch==20181111
 distributed==2.9.1
 dj-database-url==0.5.0
-Django==1.11.17
+Django==1.11.23
 django-countries==5.5
 django-heroku==0.3.1
 django-ranged-response==0.2.0
